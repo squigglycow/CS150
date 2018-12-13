@@ -1,0 +1,10 @@
+team1 5 2
+team2 1 1
+team3 1 0
+team4 0 12
+team5 5 1
+team6 200 3
+team7 20 6
+team8 3 2
+team9 5 12
+team20 50 20
